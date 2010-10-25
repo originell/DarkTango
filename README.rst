@@ -1,7 +1,7 @@
 DarkTango
 =========
 
-is a TextMate Theme based on the standard theme **Twilight** mixed with Tango colors.
+is a TextMate Theme based on the standard theme **Twilight** mixed with Geany's DarkTango_..
 
 Screenshot included. Hope you enjoy it.
 
@@ -11,3 +11,5 @@ Installation
 ------------
 
 Just grab the theme file and drag it into ~/Library/Application Support/TextMate/Themes.
+
+_DarkTango: http://code.google.com/p/geany-dark-scheme/
