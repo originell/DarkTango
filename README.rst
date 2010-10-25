@@ -5,6 +5,8 @@ is a TextMate Theme based on the standard theme **Twilight** mixed with Tango co
 
 Screenshot included. Hope you enjoy it.
 
+.. image:: http://github.com/originell/DarkTango/raw/master/screenie.png
+
 Installation
 ------------
 
