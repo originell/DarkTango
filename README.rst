@@ -1,7 +1,7 @@
 DarkTango
 =========
 
-is a TextMate Theme based on the standard theme *Twilight* mixed with Geany's *DarkTango_*..
+is a TextMate Theme based on the standard theme *Twilight* mixed with Geany's DarkTango_..
 
 Screenshot included. Hope you enjoy it.
 
