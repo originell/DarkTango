@@ -15,9 +15,8 @@ Screenshot included. Hope you enjoy it.
 Installation
 ============
 
-Just grab the theme file and drag it into 
-
-::
+Just grab the theme file and drag it into
+    
     ~/Library/Application Support/TextMate/Themes.
 
 .. _DarkTango: http://code.google.com/p/geany-dark-scheme/
