@@ -6,7 +6,7 @@ DarkTango
 is
 --
 
-a TextMate Theme based on the standard theme *Twilight* mixed with Geany's DarkTango_..
+a TextMate Theme based on the standard theme *Blackboard* mixed with Geany's DarkTango_..
 
 Screenshot included. Hope you enjoy it.
 
